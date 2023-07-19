@@ -913,6 +913,9 @@ ca62a2a95d173ed323309e5e00f653ad3cceec82a6e5e4976a249cb5aafe2515 android.hardwar
 fa76bced6b1b71c40fc706c508a9011284c57f57831cd0cf5f45653ed4ea463e android.hardware.neuralnetworks@1.3::types
 700d9de9b47984898789f5706e59285ea6fe83aa5744dccf8491c4b881033ae7 android.hardware.camera.device@3.7::ICameraInjectionSession
 
+# Modified
+34e9846b11f31baa5fdb0276ff6b5e22d256e65728ec5340fc57847619088294 android.hardware.biometrics.fingerprint@2.3::IBiometricsFingerprint
+
 # HALs released in Android T
 75d10baa98d661fb455622a1b0c76b53f0b19a906c6fb058daadfed5db77ed3f android.hardware.audio@7.1::IDevice
 3a69d224c3351bdc5651c77cd588d5a36bb65a34abd423901a9cf63ac5916f20 android.hardware.audio@7.1::IDevicesFactory
